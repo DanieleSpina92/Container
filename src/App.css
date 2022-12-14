@@ -1,0 +1,20 @@
+.Navbar {
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(154, 205, 50);
+  color: black;
+}
+
+.Links {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  width: 30%;
+}
+
+.Link {
+  text-decoration: none;
+  color: black;
+}
